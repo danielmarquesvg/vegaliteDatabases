@@ -1,0 +1,19 @@
+categoria,tipo_escola,frequencia,percentual,frequencia_relativa_acumulada
+Amostra geral,Todo em escola pública,264.393,66.42,66.42
+Amostra geral,Todo em escola privada (particular),97.518,24.50,90.92
+Amostra geral,Todo no exterior,408,0.10,91.02
+Amostra geral,A maior parte em escola pública,18.819,4.73,95.75
+Amostra geral,A maior parte em escola privada (particular),15.722,3.95,99.70
+Amostra geral,Parte no Brasil e parte no exterior,1.184,0.30,100.00
+IES Públicas,Todo em escola pública,35.457,58.66,58.66
+IES Públicas,Todo em escola privada (particular),20.816,34.44,93.09
+IES Públicas,Todo no exterior,65,0.11,93.20
+IES Públicas,A maior parte em escola pública,1.758,2.91,96.11
+IES Públicas,A maior parte em escola privada (particular),2.109,3.49,99.60
+IES Públicas,Parte no Brasil e parte no exterior,243,0.40,100.00
+IES Privadas,Todo em escola pública,228.936,67.81,67.81
+IES Privadas,Todo em escola privada (particular),76.702,22.72,90.53
+IES Privadas,Todo no exterior,343,0.10,90.64
+IES Privadas,A maior parte em escola pública,17.061,5.05,95.69
+IES Privadas,A maior parte em escola privada (particular),13.613,4.03,99.72
+IES Privadas,Parte no Brasil e parte no exterior,941,0.28,100.00

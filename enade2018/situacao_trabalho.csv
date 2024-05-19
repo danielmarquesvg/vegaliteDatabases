@@ -1,0 +1,16 @@
+categoria,situacao_trabalho,frequencia,percentual,frequencia_relativa_acumulada
+Amostra geral,Não estou trabalhando,142.356,35.76,35.76
+Amostra geral,Trabalho eventualmente,23.119,5.81,41.57
+Amostra geral,Trabalho até 20 horas semanais,22.335,5.61,47.18
+Amostra geral,Trabalho de 21 a 39 horas semanais,45.088,11.33,58.51
+Amostra geral,Trabalho 40 horas semanais ou mais,165.146,41.49,100.00
+IES Públicas,Não estou trabalhando,26.185,43.32,43.32
+IES Públicas,Trabalho eventualmente,3.523,5.83,49.15
+IES Públicas,Trabalho até 20 horas semanais,3.551,5.87,55.02
+IES Públicas,Trabalho de 21 a 39 horas semanais,7.285,12.05,67.07
+IES Públicas,Trabalho 40 horas semanais ou mais,19.904,32.93,100.00
+IES Privadas,Não estou trabalhando,116.171,34.41,34.41
+IES Privadas,Trabalho eventualmente,19.596,5.80,40.22
+IES Privadas,Trabalho até 20 horas semanais,18.784,5.56,45.78
+IES Privadas,Trabalho de 21 a 39 horas semanais,37.803,11.20,56.98
+IES Privadas,Trabalho 40 horas semanais ou mais,145.242,43.02,100.00

@@ -1,0 +1,16 @@
+categoria,livros_lidos,frequencia,percentual,frequencia_relativa_acumulada
+Amostra geral,Nenhum,54.884,13.79,13.79
+Amostra geral,Um ou dois,142.13,35.71,49.50
+Amostra geral,De três a cinco,120.067,30.16,79.66
+Amostra geral,De seis a oito,35.715,8.97,88.63
+Amostra geral,Mais de oito,45.248,11.37,100.00
+IES Públicas,Nenhum,9.263,15.32,15.32
+IES Públicas,Um ou dois,21.171,35.02,50.35
+IES Públicas,De três a cinco,17.938,29.68,80.02
+IES Públicas,De seis a oito,5.236,8.66,88.68
+IES Públicas,Mais de oito,6.84,11.32,100.00
+IES Privadas,Nenhum,45.621,13.51,13.51
+IES Privadas,Um ou dois,120.959,35.83,49.34
+IES Privadas,De três a cinco,102.129,30.25,79.59
+IES Privadas,De seis a oito,30.479,9.03,88.62
+IES Privadas,Mais de oito,38.408,11.38,100.00

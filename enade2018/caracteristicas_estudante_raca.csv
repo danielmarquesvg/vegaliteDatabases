@@ -1,0 +1,19 @@
+categoria,raca_cor,frequencia,percentual,frequencia_relativa_acumulada
+Amostra geral,branca,217.18,54.56,54.56
+Amostra geral,preta,35.767,8.99,63.55
+Amostra geral,amarela,9.285,2.33,65.88
+Amostra geral,parda,127.54,32.04,97.92
+Amostra geral,indígena,1.167,0.29,98.22
+Amostra geral,não quero declarar,7.105,1.78,100.00
+IES Públicas,branca,32.492,53.75,53.75
+IES Públicas,preta,6.144,10.16,63.92
+IES Públicas,amarela,1.305,2.16,66.07
+IES Públicas,parda,18.837,31.16,97.24
+IES Públicas,indígena,212,0.35,97.59
+IES Públicas,não quero declarar,1.458,2.41,100.00
+IES Privadas,branca,184.688,54.71,54.71
+IES Privadas,preta,29.623,8.77,63.48
+IES Privadas,amarela,7.98,2.36,65.85
+IES Privadas,parda,108.703,32.20,98.04
+IES Privadas,indígena,955,0.28,98.33
+IES Privadas,não quero declarar,5.647,1.67,100.00

@@ -1,0 +1,16 @@
+categoria,tempo_estudo,frequencia,percentual,frequencia_relativa_acumulada
+Amostra geral,Nenhum pois só assisto às aulas,31.775,7.98,7.98
+Amostra geral,De uma a três,184.167,46.27,54.25
+Amostra geral,De quatro a sete,111.432,27.99,82.25
+Amostra geral,De oito a doze,39.425,9.90,92.15
+Amostra geral,Mais de doze,31.245,7.85,100.00
+IES Públicas,Nenhum pois só assisto às aulas,4.855,8.03,8.03
+IES Públicas,De uma a três,25.519,42.22,50.25
+IES Públicas,De quatro a sete,17.708,29.29,79.54
+IES Públicas,De oito a doze,6.89,11.40,90.94
+IES Públicas,Mais de doze,5.476,9.06,100.00
+IES Privadas,Nenhum pois só assisto às aulas,26.92,7.97,7.97
+IES Privadas,De uma a três,158.648,46.99,54.97
+IES Privadas,De quatro a sete,93.724,27.76,82.73
+IES Privadas,De oito a doze,32.535,9.64,92.37
+IES Privadas,Mais de doze,25.769,7.63,100.00

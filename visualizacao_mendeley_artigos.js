@@ -1,7 +1,7 @@
-embed({
+viewof view3 = embed({
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Artigos publicados na área de ciência da computação de acordo com o gênero e sendo o principal autor do artigo",
-  "data": {"url": "https://raw.githubusercontent.com/danielmarquesvg/visualizacaoDados/master/mendeleyfull.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/danielmarquesvg/vegaliteDatabases/main/mendeleyfull.csv"},
    "transform": [
     {"filter": "datum.position == 0"},
     {"filter": {"field": "gender", "oneOf": ["F", "M"]}},

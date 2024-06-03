@@ -4,6 +4,6 @@ Mini-curso de introdução à visualização de dados com vega-lite ministrado n
 
 ## Links
 
-[6º Congresso Sertanejo de Computação - SERCOMP](https://sercomppb.com.br/)
-[Notebook Observable](https://observablehq.com/d/8727f7762df1f2db)
-[Vega-Lite – A Grammar of Interactive Graphics](https://vega.github.io/vega-lite/)
+- [6º Congresso Sertanejo de Computação - SERCOMP](https://sercomppb.com.br/).
+- [Notebook Observable](https://observablehq.com/d/8727f7762df1f2db).
+- [Vega-Lite – A Grammar of Interactive Graphics](https://vega.github.io/vega-lite/).
